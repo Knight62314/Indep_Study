@@ -18,6 +18,10 @@
 		{
 			"Name": "WaveFunctionCollapse",
 			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	]
 }
